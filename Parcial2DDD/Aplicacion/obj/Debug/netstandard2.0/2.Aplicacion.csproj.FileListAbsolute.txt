@@ -1,0 +1,11 @@
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\bin\Debug\netstandard2.0\2.Aplicacion.deps.json
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\bin\Debug\netstandard2.0\2.Aplicacion.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\bin\Debug\netstandard2.0\2.Aplicacion.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\bin\Debug\netstandard2.0\4.Dominio.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\bin\Debug\netstandard2.0\4.Dominio.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\obj\Debug\netstandard2.0\2.Aplicacion.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\obj\Debug\netstandard2.0\2.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\obj\Debug\netstandard2.0\2.Aplicacion.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\obj\Debug\netstandard2.0\2.Aplicacion.csproj.CopyComplete
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\obj\Debug\netstandard2.0\2.Aplicacion.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Aplicacion\obj\Debug\netstandard2.0\2.Aplicacion.pdb

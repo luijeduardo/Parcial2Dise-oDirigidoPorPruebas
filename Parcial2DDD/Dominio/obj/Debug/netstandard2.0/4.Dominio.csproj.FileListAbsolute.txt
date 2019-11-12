@@ -1,0 +1,8 @@
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\bin\Debug\netstandard2.0\4.Dominio.deps.json
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\bin\Debug\netstandard2.0\4.Dominio.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\bin\Debug\netstandard2.0\4.Dominio.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\obj\Debug\netstandard2.0\4.Dominio.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\obj\Debug\netstandard2.0\4.Dominio.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\obj\Debug\netstandard2.0\4.Dominio.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\obj\Debug\netstandard2.0\4.Dominio.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Dominio\obj\Debug\netstandard2.0\4.Dominio.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\3.Infraestructura.deps.json
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\3.Infraestructura.runtimeconfig.json
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\3.Infraestructura.runtimeconfig.dev.json
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\3.Infraestructura.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\3.Infraestructura.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\4.Dominio.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\4.Dominio.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\3.Infraestructura.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\3.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\3.Infraestructura.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\3.Infraestructura.csproj.CopyComplete
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\3.Infraestructura.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\3.Infraestructura.pdb

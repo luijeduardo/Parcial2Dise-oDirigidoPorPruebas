@@ -1,0 +1,8 @@
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.deps.json
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\bin\Debug\netcoreapp3.0\Infraestructura.pdb
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.dll
+C:\Users\Luis\source\repos\Parcial2DDD\Infraestructura\obj\Debug\netcoreapp3.0\Infraestructura.pdb
