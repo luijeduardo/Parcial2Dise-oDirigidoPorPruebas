@@ -29,21 +29,21 @@ namespace Dominio.Test
         {
             Credito _service = new Credito();
             var response = _service.ValidarMesesDePlazo(8);
-            Assert.AreEqual("Mes aceptado.", response);
+            Assert.AreEqual("El plazo es correcto.", response);
         }
         [Test]
         public void MesDePlazoMenorA1Test()
         {
             Credito _service = new Credito();
             var response = _service.ValidarMesesDePlazo(0);
-            Assert.AreEqual("Menor a 1 mes.", response);
+            Assert.AreEqual("El plazo no es válido porque es menor a 1 mes.", response);
         }
         [Test]
         public void MesDePlazoMayorA12Test()
         {
             Credito _service = new Credito();
             var response = _service.ValidarMesesDePlazo(13);
-            Assert.AreEqual("Mayor a 12 meses.", response);
+            Assert.AreEqual("El plazo no es válido, debe ser máximo 12 meses.", response);
         }
         [Test]
         public void ObtenerCuotasTest()
